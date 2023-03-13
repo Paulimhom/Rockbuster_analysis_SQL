@@ -23,7 +23,9 @@ This dataset contains information about Rockbuster’s film inventory, customers
 
 ## Tools Used
  PostgreSQL
+ 
  Tableau
+ 
  Excel
  
 ## Visualization
