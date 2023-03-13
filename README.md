@@ -19,7 +19,7 @@ they’d like to answer as follows:
  Do sales figures vary between geographic regions?
 
 ## Data 
-This dataset contains information about Rockbuster’s film inventory, customers, and payments, among other things stating what type of data types it contains and how they are related or connected in the database, which can be [downloaded from here ] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+This dataset contains information about Rockbuster’s film inventory, customers, and payments, among other things stating what type of data types it contains and how they are related or connected in the database, which can be [downloaded from here ](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 ## Tools Used
  PostgreSQL
@@ -27,4 +27,4 @@ This dataset contains information about Rockbuster’s film inventory, customers
  Excel
  
 ## Visualization
-The Tableau storyboard is available [here] (https://public.tableau.com/app/profile/paul.imhomoh/viz/NumberofRockbustercustomerspercountryandpaymentrecieved/Sheet1?publish=yes)
+The Tableau storyboard is available [here](https://public.tableau.com/app/profile/paul.imhomoh/viz/NumberofRockbustercustomerspercountryandpaymentrecieved/Sheet1?publish=yes)
